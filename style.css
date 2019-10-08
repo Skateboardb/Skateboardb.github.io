@@ -1,0 +1,44 @@
+body{
+    width:600px;
+   margin:auto;
+   background-color:black;
+   padding:0;
+ 
+ }
+ 
+ .container{
+   background-color:darkgreen;
+   padding: 1% 10%
+ }
+ 
+ h1 {
+   color:white;
+   text-transform:uppercase;
+   text-align:center;
+ }
+ 
+ span{
+   font-style:italic;
+ }
+ 
+ p, h3 {
+   color:lightgrey;
+ }
+ 
+ a{
+   color:yellow;
+ }
+ 
+ .important{
+   letter-spacing:2px;
+   
+ }
+ 
+ img{
+   display:block;
+   margin:auto;
+ }
+ #leaf-list{
+   list-style:none;
+   color:yellow;
+ }
